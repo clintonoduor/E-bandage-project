@@ -9,3 +9,8 @@ E-bandage has the capability to monitor the wound healing process by assessing t
 
 # HOW?
 
+The E-bandage provides real-time monitoring and delivery of treatment with limited intervention from the patient or caregivers.
+
+We’ve been able to take a new approach to bandages because of the emergence of flexible electronics. In fact, flexible electronics have made many wearable medical devices possible, but bandages have changed little since the beginnings of medicine. We are simply applying modern technology to an ancient art in the hopes of improving outcomes for an intractable problem
+
+The Azure IoT central application displays different parameters of the condition of the wound as shown below.

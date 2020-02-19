@@ -6,3 +6,6 @@ The elderly constitute the age group most susceptible to wound healing disorders
 Although wound care technologies are improving, the number of cases of infected non-healing wounds that have led to below the knee amputation hindering mobility is on the rise throughout the world. It is difficult for the people in this age group to take care of themselves and to go for regular hospital checkups.
 
 E-bandage has the capability to monitor the wound healing process by assessing the wound environment that presents very different characteristics at different stages of healing. This would reduce the need to remove bandages and potentially disturb the wound. Additionally, it could also help create a more efficient hospital environment as caregivers can reduce the time spent on treating individual patients.
+
+# HOW?
+
